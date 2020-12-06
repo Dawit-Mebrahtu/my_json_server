@@ -1,5 +1,9 @@
 {
-  "id": 1,
-  "name": "Didu",
-  "status": "7"
+  "employees": [
+    {
+      "id": 1,
+      "name": "Didu",
+      "status": "7"
+    }
+  ]
 }
